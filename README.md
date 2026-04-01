@@ -10,7 +10,6 @@
 - 🎯 Goal: Become AI Developer  
 
 ---
-
 ### 🛠️ Skills
 - 🐍 Python  
 - 💻 Basic Programming  
