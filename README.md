@@ -3,8 +3,6 @@
 <!--
 **shreeshaila02/shreeshaila02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ### 👨‍💻 About Me
 - 🎓 Engineering student  
 - 🤖 Learning AI & ML  
